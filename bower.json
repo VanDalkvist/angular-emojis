@@ -1,5 +1,14 @@
 {
-    "name": "angular-emoji",
-    "version": "0.0.2",
-    "main": "dist/emoji.min.js"
+  "name": "angular-emoji",
+  "version": "0.0.1",
+  "main": [
+    "dist/emoji.min.js",
+    "dist/emoji.min.css"
+  ],
+  "homepage": "https://github.com/VanDalkvist/angular-emoji-filter",
+  "dependencies": {
+    "angular": ">=1.3.*",
+    "bootstrap": "~3.1.1",
+    "angular-bootstrap": "~0.11.0"
+  }
 }

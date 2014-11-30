@@ -1,22 +1,22 @@
 {
     "name": "angular-emoji-filter",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "private": true,
     "author": {
-        "name": "James Allardice",
-        "email": "jallardice@globalpersonals.co.uk"
+        "name": "Ivan Afanasov",
+        "email": "ivandalkvist@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/globaldev/angular-emoji-filter.git"
+        "url": "git://github.com/VanDalkvist/angular-emoji-filter.git"
     },
     "bugs": {
-        "url": "https://github.com/globaldev/angular-emoji-filter/issues"
+        "url": "https://github.com/VanDalkvist/angular-emoji-filter/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/globaldev/angular-emoji-filter/blob/master/LICENSE"
+            "url": "https://github.com/VanDalkvist/angular-emoji-filter/blob/master/LICENSE"
         }
     ],
     "devDependencies": {
