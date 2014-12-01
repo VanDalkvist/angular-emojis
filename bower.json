@@ -2,7 +2,7 @@
   "name": "angular-emojis",
   "version": "0.0.1",
   "main": [
-    "dist/emoji.min.js",
+    "lib/emoji.js",
     "dist/emoji.min.css"
   ],
   "homepage": "https://github.com/VanDalkvist/angular-emojis",
