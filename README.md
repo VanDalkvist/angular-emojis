@@ -1,5 +1,7 @@
 # AngularJS Emoji Filter
 
+Travis-CI : <img src="https://travis-ci.org/VanDalkvist/simple-chat.svg?branch=master" ></img>
+
 > An AngularJS filter for replacing [emoji codes](http://www.emoji-cheat-sheet.com) with actual emoticons
 
 ## Installation
